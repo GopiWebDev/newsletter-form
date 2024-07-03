@@ -28,6 +28,6 @@ Your users should be able to:
 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
-Live link :
+Live link : https://gopiwebdev.github.io/newsletter-form/
 
 **Have fun building!** 🚀
